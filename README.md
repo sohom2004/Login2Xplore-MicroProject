@@ -31,13 +31,11 @@ The project demonstrates the practical use of JsonPowerDB's APIs in real-world d
 
 ## Benefits of using JsonPowerDB
 
-- Minimal coding required for database operations (Insert, Update, Read, Delete).
-- High performance due to serverless architecture.
-- Built-in support for JSON-based document storage.
-- Easy-to-use REST APIs.
-- Auto indexing and high scalability.
-- Designed for fast development of dynamic web and mobile apps.
-
+-Simplest way to retrieve data in a JSON format.
+-Schema-free, Simple to use, Nimble and In-Memory database.
+-It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
+-It is low level (raw) form of data and is also human readable.
+-It helps developers in faster coding, in-turn reduces development cost.
 ---
 
 ## Scope of Functionalities
